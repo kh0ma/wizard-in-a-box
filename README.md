@@ -2,7 +2,7 @@
 Wizard in a box  
 ===============
 
-[![Build Status](https://api.travis-ci.org/rvs-fluid-it/wizard-in-a-box.svg)](https://travis-ci.org/rvs-fluid-it/wizard-in-a-box)
+[![Build Status](https://api.travis-ci.org/kh0ma/wizard-in-a-box.svg)](https://travis-ci.org/rvs-fluid-it/wizard-in-a-box)
 
 Purpose:
 --------
