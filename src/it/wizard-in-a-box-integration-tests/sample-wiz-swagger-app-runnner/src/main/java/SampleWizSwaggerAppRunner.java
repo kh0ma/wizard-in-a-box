@@ -1,5 +1,5 @@
-import be.fluid_it.tools.dw.wiz2war.ci.app.DocumentedHelloWorldApplication;
-import be.fluid_it.tools.dw.wiz2war.it.support.WizRunner;
+import com.github.kh0ma.tools.dw.wiz2war.ci.app.DocumentedHelloWorldApplication;
+import com.github.kh0ma.tools.dw.wiz2war.it.support.WizRunner;
 
 public class SampleWizSwaggerAppRunner {
     public static void main(String[] args) throws Exception {

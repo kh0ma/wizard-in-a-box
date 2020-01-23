@@ -33,7 +33,7 @@ Add an extra Maven module to your modules pom and create a pom for your new war 
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>be.fluid-it.tools.dropwizard</groupId>
+            <groupId>com.github.kh0ma.tools.dropwizard</groupId>
             <artifactId>wizard-in-a-box</artifactId>
             <version>0.8-1-3</version>
         </dependency>

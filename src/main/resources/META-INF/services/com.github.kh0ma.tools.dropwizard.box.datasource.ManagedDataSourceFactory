@@ -1,0 +1,2 @@
+com.github.kh0ma.tools.dropwizard.box.datasource.DefaultDataSourceFactory
+com.github.kh0ma.tools.dropwizard.box.datasource.JEEDataSourceFactory

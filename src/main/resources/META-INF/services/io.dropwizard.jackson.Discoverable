@@ -1,1 +1,1 @@
-be.fluid_it.tools.dropwizard.box.datasource.ManagedDataSourceFactory
+com.github.kh0ma.tools.dropwizard.box.datasource.ManagedDataSourceFactory

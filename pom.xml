@@ -11,7 +11,7 @@
   <packaging>jar</packaging>
   <name>Wizard in a box</name>
   <description>Wrapper to deploy a DropWizard application as a war on a JEE container</description>
-  <url>https://github.com/rvs-fluid-it/wizard-in-a-box</url>
+  <url>https://github.com/kh0ma/wizard-in-a-box</url>
   <licenses>
     <license>
       <name>Apache License, Version 2.0</name>
@@ -19,6 +19,10 @@
     </license>
   </licenses>
   <developers>
+    <developer>
+      <name>Oleksandr Khomenko</name>
+      <email>khomenko.dp@gmail.com</email>
+    </developer>
     <developer>
       <name>Koen Roevens</name>
       <email>koen.roevens@gmail.com</email>
@@ -33,9 +37,9 @@
     </developer>
   </developers>
   <scm>
-    <connection>scm:git:git@github.com:rvs-fluid-it/wizard-in-a-box.git</connection>
-    <developerConnection>scm:git:git@github.com:rvs-fluid-it/wizard-in-a-box.git</developerConnection>
-    <url>git@github.com:rvs-fluid-it/wizard-in-a-box.git</url>
+    <connection>scm:git:git@github.com:kh0ma/wizard-in-a-box.git</connection>
+    <developerConnection>scm:git:git@github.com:kh0ma/wizard-in-a-box.git</developerConnection>
+    <url>git@github.com:kh0ma/wizard-in-a-box.git</url>
   </scm>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
